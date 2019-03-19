@@ -11,5 +11,15 @@
   cursor: pointer;
 }
 
+.box1 {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+}
 
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+}
 /*# sourceMappingURL=style.css.map */
