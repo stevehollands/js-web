@@ -18,6 +18,6 @@ function display() {
 
     document.getElementById("frm1").innerHTML= ""
 
-    document.getElementById("jos").innerHTML = ["Your name is " +  name + "." + "Your power is " + power + "." + "Your motivation is "+ motivation + "." + "Your plan is " + plan + "."];
+    document.getElementById("jos").innerHTML = ["Your name is " +  name + "" +"." + "Your power is " + power + "." + "Your motivation is "+ motivation + "." + "Your plan is " + plan + "."];
 
 }
